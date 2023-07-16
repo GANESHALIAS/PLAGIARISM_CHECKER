@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * 
 from tkinter import filedialog
 import tkinter.font as fnt
 import numpy as np
